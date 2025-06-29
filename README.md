@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niveka Perera</h1>
 <h3 align="center">An aspiring full-stack developer from Sri Lanka, currently a student.</h3>
 
+- 🔭 I’m currently working on an **expense management system**
+
+- 🌱 I’m currently learning **pandas.**
+
+- 📫 How to reach me **pereraniveka@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
