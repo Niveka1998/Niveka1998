@@ -1,15 +1,117 @@
-<h1 align="center">Hi 👋, I'm Niveka Perera</h1>
-<h3 align="center">An aspiring full-stack developer from Sri Lanka, currently a student.</h3>
+<div>
+🔴🟡🟢
 
-- 🔭 I’m currently working on an **expense management system**
+<br>
 
-- 🌱 I’m currently learning **pandas.**
+</div>
 
-- 📫 How to reach me **pereraniveka@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+  <img src="" alt="Card header"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<div>
+
+  ## 🧭 &nbsp;About Me
+
+  - 📚 AI and Data Science student at Informatics Institute of Technology (IIT) (Robert Gordon University) Sri Lanka.
+
+  - 📚 Full Stack Developer (student at Institute of Computer Engineering Technology (ICET) Sri Lanka.
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Python**, **Java**, and **Spring Boot**.
+
+  - 💬 Ask me about **any technology**.
+
+  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Cat">Cat</a>
+
+  <br>
+  
+
+</div>
+
+
+<div align="center">
+
+  `Developer and IT enthusiast`
+  <br>
+
+  `=========================`
+  <br>
+
+  `¯\_(ツ)_/¯`
+</div>
+
+
+<div>
+
+  ## 📚 &nbsp;Currently studying
+
+  - Pandas
+  - Microservices architecture
+  - Numpy
+  - Angular
+
+</div>
+
+
+<div>
+
+  ## 🛠️ &nbsp;My Tech Stacks
+
+  ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
+  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+  ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)&nbsp;
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+</div>
+
+
+<div>
+
+  ## 📊 &nbsp;My activities
+  
+  <a href="https://github.com/Niveka1998">
+    <img align="center" alt="niveka" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niveka1998&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+<div>
+
+  ## 📫 &nbsp;My Contacts
+
+  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
+  [![LinkedIn Badge](https://img.shields.io/badge/-My_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/niveka-perera-a76901373)](linkedin.com/in/niveka-perera-a76901373)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-pereraniveka@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](pereraniveka@gmail.com)&nbsp;
+
+</div>
+
+
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+
+<div>
+  <img src="https://raw.githubusercontent.com/Niveka1998/Niveka1998/output/github-contribution-grid-snake.svg)" alt="snake"></center>
+</div>
+
+<!-- ## 📚 &nbsp;My Projects -->
+
+
+------
