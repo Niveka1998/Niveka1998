@@ -7,14 +7,14 @@
 
 
 <div align="center">
-  <img src="" alt="Card header"/>
+  <img src="https://raw.githubusercontent.com/gist/Niveka1998/github-header-image.svg" alt="Card header"/>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Niveka1998&color=blueviolet" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Niveka1998?style=social" alt="Followers" />
   </a>
 </p>
 
